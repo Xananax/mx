@@ -1,0 +1,35 @@
+{
+  "name": "mx",
+  "version": "0.5.0",
+  "description": "Simple javascript mixin and factory utility",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "clone": "^0.2.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xananax/mx.git"
+  },
+  "keywords": [
+    "class",
+    "prototypal",
+    "inheritance",
+    "mixin"
+  ],
+  "author": "xananax@yelostudio.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xananax/mx/issues"
+  },
+  "homepage": "https://github.com/Xananax/mx"
+}
